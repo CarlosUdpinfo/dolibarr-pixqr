@@ -31,7 +31,7 @@ preenchido.
 ## Estrutura
 
 ```
-htdocs/pixqr/
+pixqr/
 ├── core/modules/modPixQr.class.php
 ├── core/modules/facture/doc/pdf_sponge_pix.modules.php
 ├── admin/setup.php
