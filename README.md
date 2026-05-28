@@ -18,7 +18,7 @@ preenchido.
 
 ## Instalação
 
-1. Copie a pasta `htdocs/pixqr` para dentro do diretório `htdocs/custom/` da
+1. Copie a pasta `pixqr` para dentro do diretório `custom/` da
    sua instalação Dolibarr (crie `custom/` se não existir e habilite
    `$dolibarr_main_url_root_alt` / `$dolibarr_main_document_root_alt` no
    `conf.php`).
